@@ -326,6 +326,15 @@ Scheme
                 "antialias"  "0"  //not default added //smoothing the edges.
             }
 		}
+		"ConsoleText"
+		{
+			"1"
+			{
+				"name"		"Lucida Console"
+				"tall"		"12"
+				"weight"	"500"
+			}
+		}
 		"aBold35"
 		{
 			"1"
