@@ -4,7 +4,6 @@
 #base "scheme/borders.res"
 #base "scheme/colors.res"
 #base "scheme/fonts.res"
-#base "scheme/xhairs.res"
 
 // If you want to edit the colors of the HUD
 // go to resource/scheme/colors.res and edit
@@ -50,11 +49,6 @@ Scheme
 		{
 			"font"	"resource/fonts/CodeProLC.otf"
 			"name"	"Code-Pro-LC"
-		}
-		"10"
-		{
-			"font" "resource/fonts/KnucklesCrosses.ttf"
-			"name" "KnucklesCrosses"
 		}
 	}
 }
