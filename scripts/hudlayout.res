@@ -55,7 +55,7 @@
 		"xpos"			"c-75"
 		"ypos"			"c93"
 		"wide"			"150"
-		"tall"			"40"
+		"tall"			"50"
 		"MeterFG"		"TanLight"
 		"MeterBG"		"Gray"
 	}
