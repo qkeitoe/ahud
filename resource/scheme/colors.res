@@ -8,16 +8,15 @@ Scheme
 
 		"HP"					"243 243 243 255"
 		"HP Buff"				"0 255 127 255"
-		"HP Low"				"200 45 45 255"
+		"HP Low"				"255 63 0 255"
 
 		"Damage Numbers"		"255 255 0 255"		// Set in Advanced Options
 		"Healing Numbers"		"0 255 127 255"
 
 		"Ammo In Clip"			"243 243 243 255"
-		"Ammo In Reserve"		"0 191 255 255"
+		"Ammo In Reserve"		"0 255 127 255"
 		"Ammo No Clip"			"243 243 243 255"
-		"LowAmmo1"				"200 45 45 255"
-		"LowAmmo2"				"255 45 45 255"
+		"Ammo Low"				"255 63 0 255"
 
 		"Stickies"				"243 243 243 255"
 		"Metal"					"243 243 243 255"

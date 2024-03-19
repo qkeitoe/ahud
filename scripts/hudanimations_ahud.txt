@@ -55,7 +55,7 @@ event HudHealthDyingPulseStop
 //Low Ammo Pulse
 event HudLowAmmoPulse
 {
-	Animate LowAmmoBG		BgColor		"LowAmmo1"		Accel 0.0 0.0
+	Animate LowAmmoBG		BgColor		"Ammo Low"		Accel 0.0 0.0
 	Animate LowAmmoBG		Alpha		"200"		Accel 0.0 0.2
 	Animate LowAmmoBG		Alpha		"0"		Accel 0.2 0.4
 
