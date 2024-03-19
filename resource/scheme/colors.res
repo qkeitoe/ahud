@@ -6,10 +6,6 @@ Scheme
 		// CUSTOM COLORS
 		//---------------------------------------------
 
-		"Crosshair"				"0 0 0 255"
-		"CrosshairDamage"		"255 0 0 255"		// For no damage flash, set to the
-													// same value as Crosshair
-
 		"HP"					"243 243 243 255"
 		"HP Buff"				"0 255 127 255"
 		"HP Low"				"200 45 45 255"
