@@ -323,63 +323,16 @@
 		}
 	}
 
-	"MOTD_ShowButtonPanel" // Does nothing
+	"MOTD_ShowButtonPanel" // Removed
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MOTD_ShowButtonPanel"
-		"xpos"			"8"
-		"ypos"			"0"
-		"zpos"			"6"
-		"wide"			"14"
-		"tall"			"14"
-		"visible"		"1"
-		"enabled"		"1"
-		"bgcolor_override"	"Blank"
-
-		"pin_to_sibling"	"QuestLogButtonNew"
-		"pin_corner_to_sibling"	"PIN_CENTER_RIGHT"
-		"pin_to_sibling_corner"	"PIN_CENTER_LEFT"
-
-		"MOTD_ShowButtonPanel_SB"
-		{
-			"ControlName"	"CExImageButton"
-			"fieldName"		"MOTD_ShowButtonPanel_SB"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"1"
-			"wide"			"14"
-			"tall"			"14"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		""
-			"default"		"1"
-
-			"actionsignallevel" "2"
-			"Command"		""
-			"navActivate"	"<QuickplayButton"		// after selecting this, nav to this sibling
-
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
-			"paintbackground" "0"
-
-			"image_drawcolor"	"ahudWhite"
-			"image_armedcolor"	"0 191 255 255"
-			"SubImage"
-			{
-				"ControlName"	"ImagePanel"
-				"fieldName"		"SubImage"
-				"xpos"			"cs-0.5"
-				"ypos"			"cs-0.5"
-				"zpos"			"1"
-				"wide"			"14"
-				"tall"			"14"
-				"visible"		"1"
-				"enabled"		"1"
-				"scaleImage"	"1"
-				"image"			"replay/thumbnails/buttons/motd"
-				"proportionaltoparent"	"1"
-			}
-		}
+		"xpos"			"9999"
+		"ypos"			"9999"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
 	}
 
 	"MOTD_Panel" // Removed
@@ -710,7 +663,7 @@
 		}
 	}
 
-	"WatchStreamButton" // Does nothing
+	"WatchStreamButton" // Removed
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"WatchStreamButton"
@@ -721,8 +674,8 @@
 		"tall"			"14"
 		"autoResize"	"0"
 		"pinCorner"		"3"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"tabPosition"	"0"
 		"bgcolor_override"	"Blank"
 
@@ -744,7 +697,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"command"		""
+			"command"		"watch_stream"
 			"textAlignment"	"center"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
