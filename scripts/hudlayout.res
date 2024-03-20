@@ -279,7 +279,7 @@
 		"visible"	"1"
 		"enabled"	"1"
 		"xpos"		"-15"
-		"ypos"		"0"
+		"ypos"		"70"
 		"wide"		"160"
 		"tall"		"480"
 		
@@ -1167,7 +1167,7 @@
 		"fieldName"		"HudAchievementTracker"
 		"xpos"			"5"
 		"NormalY"		"10"
-		"EngineerY"		"210"
+		"EngineerY"		"280"
 		"zpos"			"2"
 		"wide"			"200"
 		"tall"			"280"
