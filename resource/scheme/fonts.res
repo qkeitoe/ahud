@@ -988,7 +988,7 @@ Scheme
 			"1"
 			{
 				"name"		"Code-Pro-LC"
-				"tall"		"9"
+				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
 				"dropshadow"	"1"
