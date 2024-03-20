@@ -230,7 +230,7 @@
 		"depressedBgColor_override" "0 0 0 0"
 
 		"image_drawcolor"	"ahudWhite"
-		"image_armedcolor"	"0 255 127 255"
+		"image_armedcolor"	"0 255 63 255"
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"

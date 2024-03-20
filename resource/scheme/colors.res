@@ -7,14 +7,14 @@ Scheme
 		//---------------------------------------------
 
 		"HP"					"243 243 243 255"
-		"HP Buff"				"0 255 127 255"
+		"HP Buff"				"0 255 63 255"
 		"HP Low"				"255 63 0 255"
 
 		"Damage Numbers"		"255 255 0 255"		// Set in Advanced Options
-		"Healing Numbers"		"0 255 127 255"
+		"Healing Numbers"		"0 255 63 255"
 
 		"Ammo In Clip"			"243 243 243 255"
-		"Ammo In Reserve"		"0 255 127 255"
+		"Ammo In Reserve"		"0 255 63 255"
 		"Ammo No Clip"			"243 243 243 255"
 		"Ammo Low"				"255 63 0 255"
 
@@ -23,9 +23,9 @@ Scheme
 		"Killstreak"			"243 243 243 255"
 
 		"ChargePercent"			"243 243 243 255"
-		"Ubercharge Meter"		"0 255 127 255"
-		"Ubercharge1"			"0 255 127 255"
-		"Ubercharge2"			"0 210 105 255"
+		"Ubercharge Meter"		"0 255 63 255"
+		"Ubercharge1"			"0 255 63 255"
+		"Ubercharge2"			"0 210 50 255"
 
 		//---------------------------------------------
 		// HUD COLORS

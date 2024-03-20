@@ -232,7 +232,7 @@ Scheme
 		MainMenu.MenuItemHeight			"25"
 		MainMenu.Backdrop				"0 0 0 200"
 		
-		Console.TextColor			"100 255 100 255"
+		Console.TextColor			"0 255 63 255"
 		Console.DevTextColor		"ahudWhite"
 		
 		NewGame.TextColor			"ahudWhite"

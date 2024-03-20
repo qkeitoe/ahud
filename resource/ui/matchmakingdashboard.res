@@ -417,7 +417,7 @@
 				"depressedFgColor_override" "46 43 42 255"
 
 				"image_drawcolor"	"ahudWhite"
-				"image_armedcolor"	"0 255 127 255"
+				"image_armedcolor"	"0 255 63 255"
 				"SubImage"
 				{
 					"ControlName"	"ImagePanel"
