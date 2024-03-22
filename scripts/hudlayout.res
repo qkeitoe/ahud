@@ -260,6 +260,20 @@
 
 	}
 	
+	"BuildingAnchor"
+	{
+		"ControlName"	"Panel"
+		"fieldName"		"BuildingAnchor"
+		"xpos"			"0"
+		"ypos"			"70"
+		"zpos"			"0"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"alpha"			"0"
+	}
+	
 	BuildingStatus_Spy
 	{
 		"fieldName" "BuildingStatus_Spy"
@@ -271,6 +285,8 @@
 		"tall"		"480"
 		
 		"PaintBackgroundType"	"2"
+
+		"pin_to_sibling"	"BuildingAnchor"
 	}
 	
 	BuildingStatus_Engineer
@@ -278,12 +294,14 @@
 		"fieldName" "BuildingStatus_Engineer"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"-15"
-		"ypos"		"70"
+		"xpos"		"15"
+		"ypos"		"0"
 		"wide"		"160"
 		"tall"		"480"
 		
 		"PaintBackgroundType"	"2"
+
+		"pin_to_sibling"	"BuildingAnchor"
 	}
 	
 	HudMannVsMachineStatus
