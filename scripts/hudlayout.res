@@ -726,7 +726,7 @@
 		"visible"				"0"
 		"enabled"				"1"
 		"xpos"					"c-240"
-		"ypos"					"c90"
+		"ypos"					"c120"
 		"wide"					"480"
 		"tall"					"100"
 		"HintSize"				"1"
