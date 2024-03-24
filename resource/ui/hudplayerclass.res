@@ -13,6 +13,21 @@
 		"visible"		"1"
 		"enabled"		"1"
 	}
+	"TempusSpeedoBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"TempusSpeedoBG"
+		"xpos"			"cs-0.5"
+		"ypos"			"c79"
+		"zpos"			"-1"
+		"wide"			"80"
+		"tall"			"31"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"1"
+		"fillcolor"		"HudBlack"
+	}
 	"PlayerStatusClassImage"
 	{
 		"ControlName"	"CTFClassImage"

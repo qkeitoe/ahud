@@ -17,3 +17,12 @@ event HudSnapShotReminderIn
 	RunEvent HudLowAmmoPulseStop 10.0
 	RunEvent HudMedicChargedStop 10.0
 }
+
+event TempusSpeedoBGon
+{
+	SetVisible TempusSpeedoBG 1 0
+}
+event TempusSpeedoBGoff
+{
+	SetVisible TempusSpeedoBG 0 0
+}
