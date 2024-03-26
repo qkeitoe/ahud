@@ -922,7 +922,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"VersionLabel"
 		"font"			"aRegular8"
-		"labelText"		"v2020.1111"
+		"labelText"		"v2024.0327"
 		"textAlignment"	"east"
 		"xpos"			"r52"
 		"ypos"			"r13"
