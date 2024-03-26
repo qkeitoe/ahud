@@ -55,3 +55,10 @@ event LingeringHealthFix
 	Animate	HealthBoxBGPlayer		BgColor		"Blank"		Accel 0.5 0.0
 	Animate	HealthBoxBGPlayer		Alpha		"0"		Accel 0.5 0.0
 }
+
+event HasMOTDBlink
+{
+}
+event HasMOTDBlinkStop
+{
+}
