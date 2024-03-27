@@ -4,11 +4,11 @@
 	{
 		"White"												"255 255 255 255"
 		"OffWhite"											"255 255 255 255"
-		"DullWhite"											"0 0 0 255"
-		"Orange"											"240 155 80 255"
+		"DullWhite"											"0 0 0 200"
+		"Orange"											"178 82 22 255"
 		"TransparentBlack"									"0 0 0 0"
-		"Black"												"0 0 0 255"
-		"Green"												"0 215 0 255"
+		"Black"												"0 0 0 200"
+		"Green"												"0 255 63 255"
 		"Blank"												"0 0 0 0"
 	}
 
