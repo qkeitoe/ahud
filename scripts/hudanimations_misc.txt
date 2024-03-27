@@ -29,8 +29,8 @@ event TempusSpeedoBGoff
 
 event MenuOpen
 {
-	RunEvent LingeringAmmoFix 0.0
-	RunEvent LingeringHealthFix 0.0
+	RunEventChild HudWeaponAmmo LingeringAmmoFix 0.0
+	RunEventChild HudPlayerHealth LingeringHealthFix 0.0
 
 	StopEvent	MenuClose 0.0 
 
@@ -52,8 +52,8 @@ event LingeringAmmoFix
 }
 event LingeringHealthFix
 {
-	Animate	HealthBoxBGPlayer		BgColor		"Blank"		Accel 0.5 0.0
-	Animate	HealthBoxBGPlayer		Alpha		"0"		Accel 0.5 0.0
+	Animate	HealthBoxBG		BgColor		"Blank"		Accel 0.5 0.0
+	Animate	HealthBoxBG		Alpha		"0"		Accel 0.5 0.0
 }
 
 event HasMOTDBlink
