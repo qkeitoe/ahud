@@ -355,15 +355,15 @@
 	}
 	"SortByComboBoxCover"
 	{
-		"ControlName"								"Panel"
-		"fieldName"									"SortByComboBoxCover"
-		"xpos"										"c137"
-		"ypos"										"37"
-		"zpos"										"2"
-		"wide"										"150"
-		"tall"										"15"
-		"visible"									"1"
-		"enabled"									"1"
+		"ControlName"	"Panel"
+		"fieldName"		"SortByComboBoxCover"
+		"xpos"			"c137"
+		"ypos"			"37"
+		"zpos"			"2"
+		"wide"			"150"
+		"tall"			"15"
+		"visible"		"1"
+		"enabled"		"1"
 	}
 
 	"mouseoveritempanel"
